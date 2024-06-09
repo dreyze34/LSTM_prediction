@@ -1,0 +1,12 @@
+# Core dependencies
+numpy==1.26.4            # Bibliothèque pour les calculs numériques
+pandas==2.2.2           # Outils pour la manipulation de données
+scipy==1.13.1             # Outils pour les calculs scientifiques
+
+# Machine Learning
+scikit-learn==1.5.0     # Bibliothèque pour l'apprentissage automatique
+tensorflow==2.16.1      # Bibliothèque pour l'apprentissage profond
+keras==3.3.3             # Interface utilisateur pour TensorFlow
+
+# Visualization
+matplotlib==3.9.0        # Bibliothèque pour la création de graphiques
