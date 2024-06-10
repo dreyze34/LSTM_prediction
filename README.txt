@@ -1,6 +1,7 @@
 # Performance metrics in Machine Learning
 
 This project is a Python script that takes a time series of a house's energy consumption as input, train a LSTM model on the data and return a one-day prediction of the next consumption.
+Note that the code take a single column dataset as input and will not treat the other ones.
 
 ## Prerequisites
 
